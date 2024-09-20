@@ -1,0 +1,23 @@
+body{
+    
+    background-image: url(/Bilder/skyimge.jpg);
+    background-attachment: scroll;
+
+}
+
+.title{
+    
+    text-align: center;
+    
+}
+
+.searchbar{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+    max-width: 100%;
+}
+
+/* Her styler jeg søkefeltet, midtstiller tittelen, setter bakgrunn, og gjør at man kan skrolle.
